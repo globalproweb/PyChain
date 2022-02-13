@@ -38,5 +38,5 @@ During the testing process, the block difficulty was set to 5, the nonce result 
 
 ## III. Conclusion & Challenge:
 #
-To show case of the project, a 2 mins Video has been uploaded for review. 
+To show case of the project, a 2 mins Video has been uploaded for review via this link  https://www.youtube.com/watch?v=u1evGyr6sG0. 
  There was one challenge in this project i wish I could resolve and test. I was not able to randomly  generate  the "creator_id". This is some interessing feature  of the PyChain-Ledger app I would like to explore in the future code. Each transation should have a unique creator_id.   
